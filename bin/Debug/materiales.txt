@@ -1,0 +1,25 @@
+cautinª001ªcautin fundidor fundir calentar estaño soldar soldadorªprestado
+protoboardª002ªproto protoboard bradboard tablita tablaªdisponible
+fuente de voltajeª003ªfuente voltaje potencia alimentacion sourceªdisponible
+potenciometroª004ªresistencia resistor variable potencia poteªdeshabilitado
+multimetroª005ªmulti medidor ohmmetro voltimetro amperimetro dc ac continuidad diodoªdisponible
+motor a pasosª006ªmotor pasos stepper catodo anodoªdisponible
+pantalla lcdª007ªpantalla liquida cristal screen elecede pantallitaªdisponible
+bateriaª008ªbat battery voltaje dc source fuenteªdisponible
+multimetroª009ªmulti medidor ohmmetro voltimetro amperimetro dc ac continuidad diodoªdisponible
+fuente de voltajeª010ªfuente voltaje source bateria pila energiaªdisponible
+cautinª011ªsoldadura quemar cautin soldar caliente estañoªdeshabilitado
+cautinª012ªcautin soldadura estaño quemar soldarªdeshabilitado
+resistenciaª013ªresistor ohm resistenciaªdeshabilitado
+proyectorª014ªproyector projector pantalla luz proyectar imagenªdisponible
+fuente de voltajeª015ªfuente voltaje bateria pila sourceªprestado
+hdmiª016ªcable hdmi wire conexion connect conectarªdisponible
+usbª017ªusb cable wire conexion conectar connetªdisponible
+potenciometroª018ªpot power potencia potenciometroªdisponible
+amplificador operacionalª019ªamplificador operacional operacion amplifier amplificarªdisponible
+tecladoª020ªteclado keyboard tecla key entradaªdisponible
+cautinª021ªcautin estaño quemar soldar soldaduraªdisponible
+multimetroª022ªmulti multimetro medicion voltaje ohmsªdisponible
+multimetroª023ªmulti ohm voltaje corrienteªprestado
+lcdª024ªlcd pantalla liquid crystal screen pantallita elecedeªdisponible
+multimetroª025ªmulti ohm voltaje medidos multimetro corriente continuidadªdisponible
