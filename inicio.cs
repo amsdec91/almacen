@@ -65,6 +65,7 @@ namespace test
             button3.Visible = true;
             button4.Visible = true;
             Errorlogginalmacen.Visible = false;
+            label1.Text = "oli uwu";
 
         }
 
